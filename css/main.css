@@ -1148,7 +1148,7 @@ a.menu-toggle {
  */
 
 #intro {
-	background: #14181E url(../images/intro-bg.jpg) no-repeat center;
+	background: #14181E url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1447,7 +1447,7 @@ a.menu-toggle {
 	background-size: contain;
 }
 .process-content .item[data-item]::before {
-	background: #38424e;
+	background: #0e4c97;
 	color: #FFFFFF;
 	border-radius: 100%;
 	font-family: "montserrat-bold", sans-serif;
@@ -1527,7 +1527,7 @@ a.menu-toggle {
  */
 
 #features {
-	background: #090909 url(../images/features-bg.jpg) no-repeat center;
+	background: #090909 url(../images/features-bg2.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2066,7 +2066,7 @@ a.menu-toggle {
  */
 
 #cta {
-	background: #05bca9;
+	background: #24405d;
 	padding-top: 7.2rem;
 	padding-bottom: 9rem;
 	text-align: center;
